@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to bind the grid to a data source on a button click
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537891/)**
-<!-- run online end -->
 
 This example demonstrates how to use an external button to bind the grid to a data source.
 
