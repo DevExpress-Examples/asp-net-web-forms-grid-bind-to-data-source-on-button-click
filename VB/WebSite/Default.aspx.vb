@@ -13,7 +13,7 @@ Partial Public Class _Default
 	End Sub
 
 	Protected Sub ASPxGridView1_DataBinding(ByVal sender As Object, ByVal e As EventArgs)
-		If ViewState("needBind") IsNot Nothing AndAlso CBool(ViewState("needBind")) Then
+		If ViewState("needBind") IsNot Nothing AndAlso DirectCast(ViewState("needBind"), Boolean) Then
 			ASPxGridView1.DataSource = Product.GetData()
 		End If
 	End Sub
