@@ -60,7 +60,7 @@ Follow the steps below to bind the grid to a data source:
 
 * [Bind Grid View to Data](https://docs.devexpress.com/AspNet/3719/components/grid-view/concepts/bind-to-data)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-bind-to-data-source-on-button-click&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-bind-to-data-source-on-button-click&~~~was_helpful=no)
 
